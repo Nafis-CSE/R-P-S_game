@@ -16,7 +16,11 @@ Play against the computer and test your luck! 🔥
 ---
 
 ## 📸 Screenshots
+
+### 💻 Desktop View
 ![Desktop View](images/desktop.png)
+
+### 📱 Mobile View
 ![Mobile View](images/mobile.jpg)
 
 ---
