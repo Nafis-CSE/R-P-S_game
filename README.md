@@ -22,7 +22,7 @@ Play against the computer and test your luck! 🔥
 ---
 
 ## 🚀 Live Preview  
-👉 [Play Now on GitHub Pages](https://nafis-cse.github.io/rock-paper-scissors/)
+👉 [Play Now on GitHub Pages](https://nafis-cse.github.io/R-P-S_game/)
 
 ---
 
